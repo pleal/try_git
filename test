@@ -2,3 +2,12 @@
 creacion de fichero
 fichero en Stagin Area ---- git add
 fichero en Repo ----------- git commit
+
+2º ITERACION -- OK
+error --------------------- git chekout => recupercion de Repo
+
+3º ITERACION
+error
+fichero en Stagin Area ---- gir reset HEAD => eliminacion de 3º ITERACION de Staging Area
+3º iteracion en Staging Area
+31 iteracion en Repo
