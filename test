@@ -6,8 +6,19 @@ fichero en Repo ----------- git commit
 2º ITERACION -- OK
 error --------------------- git chekout => recupercion de Repo
 
-3º ITERACION
+3º ITERACION -- OK
 error
-fichero en Stagin Area ---- gir reset HEAD => eliminacion de 3º ITERACION de Staging Area
-3º iteracion en Staging Area
-31 iteracion en Repo
+fichero en Stagin Area ---- git reset HEAD => eliminacion de 3º ITERACION de Staging Area
+///
+3º iteracion en Repo
+
+4º ITERACION -- OK
+error
+error en Staging Area
+error en Repo ------------- git revert HEAD
+3º iteracion en Repo
+3º iteracion en disco local
+///
+4º iteracion en Staging Area y Repo
+4º iteracion en Remote
+
